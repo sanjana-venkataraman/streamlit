@@ -1,0 +1,9 @@
+google.generativeai
+apikey
+google-search-results
+yahooquery
+streamlit
+yfinance
+langchain-google-genai
+langchain
+langchain_community
